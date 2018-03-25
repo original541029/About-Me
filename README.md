@@ -18,7 +18,7 @@
 ---------------------------------------
 ## 作品集 
 - 高雄充電站收費蒐尋器(Ajax+Google MAp API+Axios) <BR>
- ⌞ 使用Ajax撈取Opene data將JSON資料顯示在網頁上
- ⌞ 並使用axios此library取得地理編碼格式，將各筆JSON轉換為經緯度
- ⌞再跑for loop將經緯度印製在Google map 上
+ ⌞ 使用Ajax撈取Opene data將JSON資料顯示在網頁上<BR>
+ ⌞ 並使用axios此library取得地理編碼格式，將各筆JSON轉換為經緯度<BR>
+ ⌞再跑for loop將經緯度印製在Google map 上<BR>
 ---------------------------------------
