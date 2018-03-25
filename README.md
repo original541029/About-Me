@@ -16,9 +16,9 @@
 - 國興資訊股份有限公司/前端設計師：公司行銷活動（活動網頁、App介面設計）、維護官網、支援其他部門SCSS改寫
 - 道成資訊股份有限公司/協同合作：共同企劃建置律師Line@、facebook粉絲頁，推播個行銷活動(平面設計、影音製作)
 ---------------------------------------
-## 作品集
-- 高雄充電站收費蒐尋器(Ajax+Google MAp API+Axios)
-> 使用Ajax撈取Opene data將JSON資料顯示在網頁上
-> 並使用axios此library取得地理編碼格式，將各筆JSON轉換為經緯度
-> 再跑for loop將經緯度印製在Google map 上
+## 作品集 
+- 高雄充電站收費蒐尋器(Ajax+Google MAp API+Axios) <BR>
+ ⌞ 使用Ajax撈取Opene data將JSON資料顯示在網頁上
+ ⌞ 並使用axios此library取得地理編碼格式，將各筆JSON轉換為經緯度
+ ⌞再跑for loop將經緯度印製在Google map 上
 ---------------------------------------
