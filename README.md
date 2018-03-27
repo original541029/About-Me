@@ -42,7 +42,7 @@
   </br>2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
   </br>3. 使用 Axios 透過取得地理編碼   
    
-* RWD切版
+* 實務經驗改版成RWD
    </br>1. http://tinp.ksi.com.tw/TINP/Home
    </br>2. http://tinp.ksi.com.tw/TINP/Home
    </br>3. http://ksisal.ksi.com.tw/Rec/Home/concept
