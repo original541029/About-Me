@@ -37,7 +37,7 @@
 
 ## 作品
   
-* 高雄充電站蒐尋器(JavaScript、Ajax、Bootstrap) -  https://github.com/original541029/Kaohsiung-charging-station
+* 高雄充電站蒐尋器(JavaScript、Ajax、Bootstrap) -  https://goo.gl/3eCG5t
   </br>1. 使用 Bootstrap 進行格線規劃
   </br>2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
   </br>3. 使用 Axios 透過取得地理編碼   
