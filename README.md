@@ -34,17 +34,16 @@
  
 <hr>
 ## 作品
-
-* BMI 測試(JavaScript) -
-  </br>1. 使用 LocalStorage
   
-* 高雄旅遊資訊(JavaScript、Ajax、Bootstrap) -  https://hotman0901.github.io/travel/
+* 高雄充電站蒐尋器(JavaScript、Ajax、Bootstrap) -  https://github.com/original541029/Kaohsiung-charging-station
   </br>1. 使用 Bootstrap 進行格線規劃
   </br>2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
   </br>3. 使用 Axios 透過取得地理編碼   
    
-* 其他
-   </br>1. https://hotman0901.github.io/skroller-resume/ 
+* RWD切版
+   </br>1. http://tinp.ksi.com.tw/TINP/Home
+   </br>2. http://tinp.ksi.com.tw/TINP/Home
+   </br>3.http://ksisal.ksi.com.tw/Rec/Home/concept
 
 
 ## 未來計劃
