@@ -1,24 +1,61 @@
-# 劉育慈 (Diya Liu) #
+# 劉育慈 (Diya) #
 * Education：國立勤益科技大學/資訊管理學系
 * Location：新竹市/台中市
 * E-mail：original541029@gmail.com
---------------------------------------- 
-### 專業技能
-- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局
-- 使用 Bootstrap 快速開發響應式網頁
-- 了解 Javascript、 jQuery基本語法
-- 介接第三方 API (Google Map、Open Data 等)
-- 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
-- 了解 Git / Github 與基本指令運用
----------------------------------------
-### 工作經驗
-- 尊博科技股份有限公司/軟體工程師：<BR>客製化網站/製作遊戲layout，維護已上線遊戲大廳
-- 國興資訊股份有限公司/前端設計師：<BR>公司行銷活動（活動網頁、App介面設計）、維護官網、支援其他部門SCSS改寫
-- 道成資訊股份有限公司/協同合作：<BR>共同企劃建置律師Line@、facebook粉絲頁，推播個行銷活動(平面設計、影音製作)
----------------------------------------
-### 作品集 
-- 高雄充電站收費蒐尋器(Ajax+Google MAp API+Axios) <BR>
- ⌞ 使用Ajax撈取Opene data將JSON資料顯示在網頁上<BR>
- ⌞ 並使用axios此library取得地理編碼格式，將各筆JSON轉換為經緯度<BR>
- ⌞再跑for loop將經緯度印製在Google map 上<BR>
----------------------------------------
+<hr>
+## 工作經歷
+
+#### 尊博科技股份有限公司(前端設計師)
+
+ * 參與遊戲維護改版(負責客製化網站、製作遊戲layout維護已上線遊戲)
+ 
+#### 國興資訊股份有限公司(前端設計師)
+
+ * 參與遊戲維護改版(負責公司行銷活動（活動網頁、App介面設計）、維護官網、跨部門支援SCSS改寫)
+ 
+#### 道成資訊股份有限公司(協同合作)
+
+ * 參與遊戲維護改版(共同企劃建置律師Line@、facebook粉絲頁，推播個行銷活動(平面設計、影音製作)
+ 
+## 技能清單
+
+#### 前端
+
+ * Scss + RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化
+ * jQuery 設計網頁動畫效果，了解如何使用基本語法
+ * JSON/Ajax 透過 Open Data 串接資料應用 
+ - 程式庫搭配 Google Maps JavaScript API 
+ * Vue 框架基本使用
+ * Css Flex
+  
+#### 其他
+ * Git/GitHub 基本使用(GUI：Source Tree)
+ * Photoshop、Illustrator 基本工具操作
+ 
+<hr>
+## 作品
+
+* BMI 測試(JavaScript) -
+  </br>1. 使用 LocalStorage
+  
+* 高雄旅遊資訊(JavaScript、Ajax、Bootstrap) -  https://hotman0901.github.io/travel/
+  </br>1. 使用 Bootstrap 進行格線規劃
+  </br>2. 使用 JavaScript 透過 Ajax 取得 Open Data 資料
+  </br>3. 使用 Axios 透過取得地理編碼   
+   
+* 其他
+   </br>1. https://hotman0901.github.io/skroller-resume/ 
+
+
+## 未來計劃
+ * 短期目標：將前端基底打穩，熟練並未公司創造更有價值的產品
+ * 中長期目標：跟上前端技術面的趨勢，並了解後端資料面的規劃及技術面
+
+<hr>
+
+## 關於我
+
+ * 樂於將美的事物實現
+ * 樂於涉略多元技術及知識
+ * 樂於團隊溝通合作
+
