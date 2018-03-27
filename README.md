@@ -24,7 +24,7 @@
  * Scss + RWD 規劃網頁，不倚賴 CSS Framework 進行 RWD 客製化
  * jQuery 設計網頁動畫效果，了解如何使用基本語法
  * JSON/Ajax 透過 Open Data 串接資料應用 
- - 程式庫搭配 Google Maps JavaScript API 
+ * 程式庫搭配 Google Maps JavaScript API 
  * Vue 框架基本使用
  * Css Flex
   
@@ -33,6 +33,7 @@
  * Photoshop、Illustrator 基本工具操作
  
 <hr>
+
 ## 作品
   
 * 高雄充電站蒐尋器(JavaScript、Ajax、Bootstrap) -  https://github.com/original541029/Kaohsiung-charging-station
