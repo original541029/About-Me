@@ -3,6 +3,7 @@
 * Location：新竹市/台中市
 * E-mail：original541029@gmail.com
 <hr>
+
 ## 工作經歷
 
 #### 尊博科技股份有限公司(前端設計師)
