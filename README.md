@@ -45,7 +45,7 @@
 * RWD切版
    </br>1. http://tinp.ksi.com.tw/TINP/Home
    </br>2. http://tinp.ksi.com.tw/TINP/Home
-   </br>3.http://ksisal.ksi.com.tw/Rec/Home/concept
+   </br>3. http://ksisal.ksi.com.tw/Rec/Home/concept
 
 
 ## 未來計劃
