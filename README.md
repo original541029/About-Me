@@ -40,7 +40,7 @@
 * 高雄充電站蒐尋器(JavaScript、Ajax、Bootstrap) -  https://goo.gl/3eCG5t
   </br>1. 使用 Bootstrap 進行格線規劃
   </br>3. 使用 Axios 透過取得地理編碼   
-*高雄旅遊資訊 -https://goo.gl/HwwQax
+* 高雄旅遊資訊 -https://goo.gl/HwwQax
 
 * 實務經驗RWD改版
    </br>1. http://tinp.ksi.com.tw/TINP/Home
