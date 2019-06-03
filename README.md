@@ -26,7 +26,7 @@
  * jQuery 設計網頁動畫效果，了解如何使用基本語法
  * JSON/Ajax 透過 Open Data 串接資料應用 
  * 程式庫搭配 Google Maps JavaScript API 
- * Vue 框架基本使用
+ * Angular
  * Css Flex
   
 #### 其他
@@ -37,6 +37,7 @@
 
 ## 作品集   
 * 高雄旅遊資訊 -https://goo.gl/HwwQax
+* 中強光電人資招募 https://original541029.github.io/scssTemplate/
 
 * 實務經驗RWD改版
    </br>1. http://tinp.ksi.com.tw/TINP/Home
